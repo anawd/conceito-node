@@ -1,4 +1,10 @@
-# Conceito Node.JS
+<p align="center">
+  <img width="200" height="163" src="https://user-images.githubusercontent.com/21958366/90352870-fe649e80-e01a-11ea-9ecc-1cd015ed3450.png">
+</p>
+
+# 🚀 Bootcamp GoStack 12 - Desafio 02 - Back-End 🚀
+
+# Conceito NodeJS
 Desafio 2 - sobre Conceitos NodeJS aplicando no módulo 1 do Bootcamp GoStack 12
 
 <h2>Tecnologias usadas</h2>
